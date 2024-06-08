@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "BMHANNAAir-Regular";
+  font-weight: normal;
+  src: url("./fonts/BMDOHYEON_ttf.ttf") format("truetype");
+}
+
+body {
+  font-family: "BMHANNAAir-Regular";
+  background-color: #ffffff;
+  color: #1a202c;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
